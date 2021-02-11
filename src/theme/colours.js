@@ -1,10 +1,10 @@
 export const colours = {
-    PURPLE_MAIN: '#aa00ff',
-    PURPLE_LIGHT: '#e254ff',
-    PURPLE_DARK: '#7200ca',
-    PINK_MAIN: '#f48fb1',
-    PINK_DARK: '#bf5f82',
-    PINK_LIGHT: '#ffc1e3',
+    GREY_MAIN: '#757575',
+    GREY_LIGHT: '#a4a4a4',
+    GREY_DARK: '#494949',
+    YELLOW_MAIN: '#ffeb3b',
+    YELLOW_DARK: '#c8b900',
+    YELLOW_LIGHT: '#ffff72',
     BLACK: '#000000',
     WHITE: '#ffffff',
 }
