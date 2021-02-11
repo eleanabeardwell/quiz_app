@@ -13,6 +13,13 @@ const questionBase = {
         3: ['Acromantula', 'Basilisk', 'Dragon', 'Boggart'],
         4: ['Draco Malfoy', 'Harry Potter', 'Rubeus Hagrid', 'Tom Riddle'],
         5: ['Unicorn', 'Hippogriff', 'Phoenix', 'Dragon']
+    },
+    correctAnswer: {
+        1: 'Fluffy',
+        2: 'Bludger',
+        3: 'Basilisk',
+        4: 'Tom Riddle',
+        5: 'Hippogriff'
     }
 }
 

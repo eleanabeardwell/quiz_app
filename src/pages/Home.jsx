@@ -8,7 +8,7 @@ function Home () {
                 Welcome to Home
             </h1>
             <Button variant="contained" color="primary" href="/Quiz">
-                Try the Quiz!
+                Try the Quiz Now!
             </Button>
             <Button variant="contained" color="secondary">
                 Secondary
